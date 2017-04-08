@@ -1,0 +1,1 @@
+Linux 通过apt、yum等包管理器安装nginx后，使用此nginx.conf文件替换/etc/nginx/目录下的nginx文件，即可实现反向代理google
